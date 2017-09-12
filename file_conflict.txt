@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file_conflict.txt
+=======
+file_conflict.txt
+>>>>>>> refs/remotes/origin/master
