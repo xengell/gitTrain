@@ -1,2 +1,2 @@
 # gitTrain
-ex1, 1
+ex1, 1,2
